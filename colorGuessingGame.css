@@ -1,0 +1,36 @@
+body {
+	background: #000000;
+}
+
+.main {
+	background-color: #062178;
+	color: white;
+	max-width: 100%;
+	text-align: center;
+}
+
+.main .sub {
+	background-color: #bec8e6;
+	border: 1px solid black;
+	color: black;
+}
+
+.row .box {
+}
+
+.row {
+	margin-top: 10px;
+	margin-left: 23%;
+	margin-right: 15%;
+}
+
+.row .box {
+	margin: 4px;
+	height: 190px;
+	border-radius: 10px;
+}
+
+.invisible {
+	visibility: none;
+}
+
